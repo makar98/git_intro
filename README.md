@@ -1,3 +1,3 @@
 # Git tutorial
-- [How to commit](./commmit_help.md)
+- [Git algorithm](./git_algorithm.md)
 - [Show history](./log_help.md)
